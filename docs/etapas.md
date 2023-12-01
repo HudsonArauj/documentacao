@@ -57,8 +57,8 @@ Este projeto busca automatizar completamente a gestão da infraestrutura na AWS,
 
 
 
-
-<a href="/projeto" style="display: inline-block; padding: 10px 20px; background-color: #4285f4; color: #ffffff; text-decoration: none; border-radius: 5px; margin-left : 70%">Próxima Página</a> 
+<!-- 
+<a href="/projeto" style="display: inline-block; padding: 10px 20px; background-color: #5468ff;; color: #ffffff; text-decoration: none; border-radius: 5px; margin-left : 70%">Próxima Página</a>  -->
 
 
 

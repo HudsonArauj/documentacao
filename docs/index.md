@@ -14,7 +14,7 @@ hero:
       link: /projeto
 
 members:
-  - avatar: '[assets/foto.jpg](https://github.com/HudsonArauj/documentacao/blob/main/docs/assets/foto.jpg)'
+  - avatar: 'assets/foto.jpg'
     name: 'Hudson Araujo'
     title: 'Autor'
     links:

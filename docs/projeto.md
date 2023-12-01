@@ -183,4 +183,4 @@ A ideia é que quando a CPU das instancias EC2 estiver acima de 10%, o load bala
 
 
 
-<a href="/etapas" style="display: inline-block; padding: 10px 20px; background-color: #4285f4; color: #ffffff; text-decoration: none; border-radius: 5px;">Página Anterior</a>
+<!-- <a href="documentacao/etapas" style="display: inline-block; padding: 10px 20px; background-color: #5468ff; color: #ffffff; text-decoration: none; border-radius: 5px;">Página Anterior</a> -->
