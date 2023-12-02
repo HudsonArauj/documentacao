@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as e,R as o}from"./chunks/framework.n2gXG5Fs.js";const f=JSON.parse('{"title":"Descrição:","description":"","frontmatter":{},"headers":[],"relativePath":"etapas.md","filePath":"etapas.md"}'),t={name:"etapas.md"},s=o("",26),i=[s];function n(d,c,u,l,p,m){return r(),e("div",null,i)}const g=a(t,[["render",n]]);export{f as __pageData,g as default};

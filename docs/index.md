@@ -12,6 +12,10 @@ hero:
     - theme: alt
       text: Projeto
       link: /projeto
+    - theme: secondary
+    - theme: secondary
+      text: Custos
+      link: /custos
 
 members:
   - avatar: 'assets/foto.jpg'

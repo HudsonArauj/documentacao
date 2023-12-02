@@ -3,22 +3,22 @@ export default {
   // site-level options
   title: 'Página inicial',
   description: 'Site de documentação do projeto de Computação em Nuvem',
-  base : '/documentacao/',
+  base: '/documentacao/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Etapas', link: '/etapas' },
       { text: 'Projeto', link: '/projeto' },
+      { text: 'Custos', link: '/custos' }
     ],
-    siderbar: [
+    sidebar: [
       { text: 'Home', link: '/' },
       { text: 'Etapas', link: '/etapas' },
       { text: 'Projeto', link: '/projeto' },
-    ],
-    socialLinks: [
-      { icon: 'GitHub', link: 'https://github.com/HudsonArauj/documentacao' },
-    ],
-
-  }
-}
-
+      { text: 'Custos', link: '/custos' }
+    ]
+  },
+  plugins: [
+    ['vitepress-plugin-vue3-ipynb'],
+  ],
+};
